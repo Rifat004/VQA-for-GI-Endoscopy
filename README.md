@@ -1,6 +1,6 @@
 # Robust-VQA-for-GI-Endoscopy
 
-This repository contains notebooks that for fine-tuning and conducting **robustness analysis** of Vision–Language Models (VLMs) for Visual Question Answering on gastrointestinal endoscopy images, built on the [Kvasir-VQA](https://huggingface.co/datasets/SimulaMet-HOST/Kvasir-VQA) dataset. All experiments were conducted in jupyter notebooks.
+This repository contains notebooks for fine-tuning and conducting **robustness analysis** of Vision–Language Models (VLMs) for Visual Question Answering on gastrointestinal endoscopy images, built on the [Kvasir-VQA](https://huggingface.co/datasets/SimulaMet-HOST/Kvasir-VQA) dataset. All experiments were conducted in jupyter notebooks.
 
 ## Repository Structure
 
