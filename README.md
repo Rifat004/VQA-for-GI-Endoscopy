@@ -31,7 +31,7 @@ git clone https://github.com/Rifat004/VQA-for-GI-Endoscopy.git
 cd VQA-for-GI-Endoscopy
 
 python3.12 -m venv .venv
-source .venv/bin/activate          # Windows: .venv\Scripts\activate
+source .venv/bin/activate          
 
 pip install -r requirements.txt
 ```
